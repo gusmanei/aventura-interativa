@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.opcao {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
